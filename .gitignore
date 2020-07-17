@@ -1,0 +1,4 @@
+//这里是不该添加到github上的文件
+/.idea/
+/node_modules/
+/.vscode/

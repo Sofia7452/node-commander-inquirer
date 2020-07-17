@@ -1,0 +1,26 @@
+debug: read db
+debug: json parse error
+debug: read db
+debug: read db
+debug: read db
+debug: action
+debug: create
+debug: read db
+debug: [{"title":"买矿泉水","done":true},{"title":"买泡面","done":false}]
+debug: [object Object],[object Object],[object Object]
+debug: object
+debug: [{"title":"买矿泉水","done":true},{"title":"买泡面","done":false},{"title":"买火腿肠","done":false}]
+debug: read db
+debug: read db
+debug: read db
+debug: read db
+debug: read db
+debug: read db
+debug: read db
+debug: read db
+debug: read db
+debug: read db
+debug: read db
+debug: read db
+debug: read db
+debug: read db
